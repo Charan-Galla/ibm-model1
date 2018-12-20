@@ -1,6 +1,6 @@
 <h1>IBM Translational Model-1</h1>
 
-<p><b>Language:	Python 3.5</b></p>
+<p><b>Language:</b>	Python 3.5</p>
 
 <h2>Aim:</h2>
 To implement the IBM Model-1 which lexically translates words of the corpus by using the EM (Expectation Maximization) algorithm.
