@@ -3,7 +3,7 @@
 <p><b>Language:</b>	Python 3.5</p>
 
 <h2>Aim:</h2>
-To implement the IBM Model-1 which lexically translates words of the corpus by using the EM (Expectation Maximization) algorithm.
+To implement the IBM Model-1 which finds the lexical translation of the words in the corpus by using the EM (Expectation Maximization) algorithm.
 
 <h2>Working:</h2>
 
